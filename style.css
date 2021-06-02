@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100vh;
+}
+
+.container-image {
+    position: absolute;
+    z-index:-2;
+    /*background: linear-gradient(rgba(0, 0, 0, 0.94), rgba(0, 0, 0, .94)), url( "https://media.lelombrik.net/t/8d7df93163b33377a28fee8bdde4a07f/f/8d7df93163b33377a28fee8bdde4a07f.jpg");*/
+    width: 100%;
+    height: 100vh;
+}
+
+svg image {
+    width: 100%;
+}
